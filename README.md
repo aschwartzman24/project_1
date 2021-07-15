@@ -1,2 +1,1 @@
-# Project 1 
-(https://github.com/blhawkins/theBostonLagers)
+# [Project 1] (https://github.com/blhawkins/theBostonLagers)
